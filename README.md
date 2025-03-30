@@ -1,7 +1,10 @@
 このリポジトリには、日本の準天頂衛星システム（QZSS）が提供するL6信号の航法データのアーカイブデータをダウンロードするための、2種類のGUIアプリケーション（Windows用実行ファイル）が含まれています：
 
 L6D Downloader: QZSS L6D（CLAS）データを日付範囲指定で取得
+
 L6E Downloader: QZSS L6E（PPP）データを衛星ごと・日付範囲指定で取得
+
+
 
 📦 実行ファイル
 l6d_downloader.exe
