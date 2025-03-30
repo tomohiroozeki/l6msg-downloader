@@ -40,7 +40,7 @@
 ## 💡 補足
 
 ダウンロード元URL:
-  - L6D: https://sys.qzss.go.jp/archives/l6/
-  - L6E: https://l6msg.go.gnss.go.jp/archives/
+  - L6D: https://sys.qzss.go.jp/dod/archives/clas.html (https://sys.qzss.go.jp/archives/l6/)
+  - L6E: https://l6msg.go.gnss.go.jp/ (https://l6msg.go.gnss.go.jp/archives/)
 
 .pyファイルはCUI版です。URL変更等によるバグ対応やLinux,MacOS等で利用してください。
