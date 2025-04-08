@@ -62,10 +62,10 @@ This repository contains two types of GUI applications (Windows executables) for
 **ダウンロード元URL:**  
 - L6D: https://sys.qzss.go.jp/dod/archives/clas.html （https://sys.qzss.go.jp/archives/l6/）  
 - L6E: https://l6msg.go.gnss.go.jp/ （https://l6msg.go.gnss.go.jp/archives/）  
+`.py` ファイルは CUI 版です。URL 変更等によるバグ修正や Linux・macOS 等で利用してください。  
+
 ## 💡 Additional Information  
 **Download URLs:**  
 - L6D: https://sys.qzss.go.jp/dod/archives/clas.html (https://sys.qzss.go.jp/archives/l6/)  
 - L6E: https://l6msg.go.gnss.go.jp/ (https://l6msg.go.gnss.go.jp/archives/)  
-
-`.py` ファイルは CUI 版です。URL 変更等によるバグ修正や Linux・macOS 等で利用してください。  
 The original `.py` files are command-line interface (CUI) versions. Please use them on Linux/macOS or when fixing issues such as URL changes.
